@@ -20,8 +20,8 @@ call dein#add('higashi000/vimvimsemi')
 Type Ctrl-s or Ctrl-d in insert mode.<br>
 
 ## Demo
-- Ctrl-s
+- Ctrl-s<br>
 ![demo-ctrl-s](https://github.com/higashi000/vimvimsemi/blob/master/gif/ctrl-s.gif)
 
-- Ctrl-d
+- Ctrl-d<br>
 ![demo-ctrl-d](https://github.com/higashi000/vimvimsemi/blob/master/gif/ctrl-d.gif)
